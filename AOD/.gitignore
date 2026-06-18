@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+config.h
+build/
+*.o
+*.out
+*.exe
+.vscode/
+
+# Local databases or config
+aircraft*.json
+*test.txt
