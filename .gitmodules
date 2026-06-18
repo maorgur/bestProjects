@@ -1,0 +1,3 @@
+[submodule "othello"]
+	path = othello
+	url = https://github.com/maorgur/othello
